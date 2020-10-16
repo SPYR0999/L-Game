@@ -4,11 +4,11 @@
 	"Category": "",
 	"Description": "",
 	"TargetPlatforms": [
-		"LinuxNoEditor",
-		"LinuxAArch64NoEditor",
-		"MacNoEditor",
 		"WindowsNoEditor",
+		"WindowsNoEditorWin32",
 		"AllDesktop",
-		"WindowsNoEditorWin32"
+		"MacNoEditor",
+		"LinuxAArch64NoEditor",
+		"LinuxNoEditor"
 	]
 }
